@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @PradeepSitaraSen 
-Hi
-
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-PradeepSitaraSen/PradeepSitaraSen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Apt update
+apt upgrade
+Pkg install git 
+Pkg install python 
+Pkg install python2 
+Pip2 install requests 
+Pip2 install machines
